@@ -82,7 +82,7 @@
   }
   .codigoqr{
     width: 100%;
-    height:500px;
+    padding:10px;
     margin: auto;
     text-align: center;
   }
